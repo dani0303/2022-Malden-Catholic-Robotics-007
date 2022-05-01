@@ -1,5 +1,7 @@
 #include <kipr/wombat.h>
 
+//Coded: By Daniel Rodriguez
+
 //SENSORS
 int r_sen = 0;//RIGHT SENSOR
 int l_sen = 1;//LEFT SENSOR
